@@ -1,0 +1,58 @@
+export const Categories = [
+  {
+    id: 1,
+    category: "men",
+    title: "Tshirt",
+    price: "100000.00",
+    image: "/images/man.jpg",
+  },
+  {
+    id: 2,
+    category: "men",
+    title: "Wrist watch",
+    price: "100000.00",
+    image: "/images/menShoe.jpg",
+  },
+  {
+    id: 3,
+    category: "men",
+    title: "Perfume",
+    price: "100000.00",
+    image: "/images/menPerfume.jpg",
+  },
+  {
+    id: 4,
+    category: "women",
+    title: "top",
+    price: "93000.00",
+    image: "/images/woman.jpg",
+  },
+  {
+    id: 5,
+    category: "women",
+    title: "Bag",
+    price: "23000.00",
+    image: "/images/girlBag.jpg",
+  },
+  {
+    id: 6,
+    category: "women",
+    title: "shoes",
+    price: "93000.00",
+    image: "/images/girlshoe.jpg",
+  },
+  {
+    id: 7,
+    category: "kids",
+    title: "singlets",
+    price: "80000.00",
+    image: "/images/kid.jpg",
+  },
+  {
+    id: 8,
+    category: "kids",
+    title: "Shoes",
+    price: "80000.00",
+    image: "/images/kidShoe.jpg",
+  },
+];
